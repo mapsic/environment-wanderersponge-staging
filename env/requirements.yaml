@@ -13,3 +13,6 @@ dependencies:
 - name: python-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: spring-boot-web
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.1
